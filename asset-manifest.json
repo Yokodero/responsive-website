@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/responsive-website/static/js/main.63f9be87.js",
+    "static/js/787.b488cc94.chunk.js": "/responsive-website/static/js/787.b488cc94.chunk.js",
+    "index.html": "/responsive-website/index.html",
+    "main.63f9be87.js.map": "/responsive-website/static/js/main.63f9be87.js.map",
+    "787.b488cc94.chunk.js.map": "/responsive-website/static/js/787.b488cc94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.63f9be87.js"
+  ]
+}
